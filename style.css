@@ -22,3 +22,8 @@ h3:hover {
     width: 150px;
     cursor: help;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+}
