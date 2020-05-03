@@ -5,4 +5,20 @@ p {
 .blue {
     background: blue;
     color: white;
+    width: 150px;
+}
+
+button{
+    cursor: pointer;
+}
+
+h3 {
+    font-style: oblique;
+}
+
+h3:hover {
+    background: blue;
+    color: white;
+    width: 150px;
+    cursor: help;
 }
